@@ -12,7 +12,7 @@ class ContactForm extends Component {
         className="section-full content-inner bg-primary contact-2"
         style={{
           backgroundImage: "url(" + Bging + ")",
-          backgroundRepeat: "round"
+          backgroundRepeat: "round",
         }}
       >
         <div className="container">
@@ -25,7 +25,7 @@ class ContactForm extends Component {
               >
                 <div
                   className="support-form support-box-form "
-                  style={{ backgroundColor: "rgba(232, 244, 248, 0.73)" }}
+                  // style={{ backgroundColor: "rgba(232, 244, 248, 0.73)" }}
                 >
                   <div className="support-title m-b30">
                     <h6 className="text-uppercase font-weight-500 m-b10">

@@ -67,7 +67,7 @@ class Team extends Component {
               <SingleTeamMember
                 name={"Sopon Islam"}
                 img={Shopon}
-                position={"Chief Accountant"}
+                position={"Chief Marketing Manager"}
                 mail={"mailto:shoponvip@gmail.com"}
                 facebook={"http://fb.me/mostofa.me"}
                 instagram={"http://fb.me/mostofa.me"}
